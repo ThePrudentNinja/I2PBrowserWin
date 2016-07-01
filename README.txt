@@ -11,6 +11,7 @@ Current Projects with the I2P Portable Apps project:
 Modifications from original Tor browser:
 * Added FoxyProxy
 * Added a configuration for FoxyProxy to use I2P
+* Removed the tor-launcher and https-everywhere addons
 * Modified the tor-button addon to keep the annoying tab from popping up saying "Something went wrong"
 * Set the security slider to max in the tor-button addon
 * Rearranged everything to fit the PortableApps standards
