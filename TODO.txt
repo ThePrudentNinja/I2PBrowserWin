@@ -1,0 +1,7 @@
+TODO LIST
+* Make a better help.html file
+* Stop the browser from making new folders and files under App\I2PBrowser
+* Remove the updater since it will fail anyway
+* Smooth out the rough edges
+* Create icons for the browser
+* Rebrand the browser
