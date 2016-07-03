@@ -5,3 +5,4 @@ TODO LIST
 * Smooth out the rough edges
 * Create icons for the browser
 * Rebrand the browser
+* Write up detailed information on every single thing that has to be done to turn the Tor browser into this
