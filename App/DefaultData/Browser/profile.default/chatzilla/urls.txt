@@ -1,0 +1,17 @@
+http%3a//www.irchelp.org/
+http%3a//chatzilla.hacksrus.com/
+http%3a//chatzilla.hacksrus.com/faq
+irc%3a//127.0.0.1%3a6668/
+irc%3a//127.0.0.1%3a6668/
+http%3a//i2p-projekt.i2p/
+http%3a//forum.i2p/
+http%3a//zzz.i2p/
+http%3a//hq.postman.i2p/
+irc%3a//127.0.0.1%3a6668/
+irc%3a//127.0.0.1%3a6668/
+irc%3a//127.0.0.1%3a6668/
+irc%3a//127.0.0.1%3a6668/
+irc%3a//127.0.0.1%3a6668/
+irc%3a//127.0.0.1%3a6668/
+irc%3a//127.0.0.1%3a6668/
+irc%3a//127.0.0.1%3a6668/

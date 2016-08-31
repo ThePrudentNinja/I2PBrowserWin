@@ -7,7 +7,8 @@ This project is a part of the I2P Portable Apps project. The I2P Portable Apps p
 Current Projects with the I2P Portable Apps project:
 * I2PPortable - https://github.com/ThePrudentNinja/I2PPortable
 * I2PBrowserWin - https://github.com/ThePrudentNinja/I2PBrowserWin
-* RetroSharePortable - https://github.com/ThePrudentNinja/RetroSharePortable
+* I2PBrowserLin - https://github.com/ThePrudentNinja/I2PBrowserLin
+* I2PPortableLin - https://github.com/ThePrudentNinja/I2PPortableLin
 
 Modifications from original Tor browser:
 * Added FoxyProxy
