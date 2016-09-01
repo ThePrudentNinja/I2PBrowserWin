@@ -19,3 +19,6 @@ Modifications from original Tor browser:
 * Rearranged everything to fit the PortableApps standards
 
 Please note, it's possible I overlooked something. I did this in a couple of hours of tinkering.
+
+Please consider supporting this project by making a donation of time and/or Monero.
+452fgGixLKd5ur2WeNYCWBFDPTDFRDae1Q89pvLapub91rLKxAh1RTKYEKYYBcVcCF19jVgAcFwegcNsY4NJgUiRCUTVRuG
